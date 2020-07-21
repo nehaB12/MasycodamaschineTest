@@ -1,0 +1,6 @@
+D:\MasycodaCubeMaschineTest\MasycodaCubeMaschineTest\bin\Debug\MasycodaCubeMaschineTest.exe.config
+D:\MasycodaCubeMaschineTest\MasycodaCubeMaschineTest\bin\Debug\MasycodaCubeMaschineTest.exe
+D:\MasycodaCubeMaschineTest\MasycodaCubeMaschineTest\bin\Debug\MasycodaCubeMaschineTest.pdb
+D:\MasycodaCubeMaschineTest\MasycodaCubeMaschineTest\obj\Debug\MasycodaCubeMaschineTest.exe
+D:\MasycodaCubeMaschineTest\MasycodaCubeMaschineTest\obj\Debug\MasycodaCubeMaschineTest.pdb
+D:\MasycodaCubeMaschineTest\MasycodaCubeMaschineTest\obj\Debug\MasycodaCubeMaschineTest.csprojResolveAssemblyReference.cache
